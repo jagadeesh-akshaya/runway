@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>32605992807-kfj72fj2dk8162s9t866loa7jmts2b3s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.32605992807-kfj72fj2dk8162s9t866loa7jmts2b3s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBc-aGdnEsBS5d1r7iRqOetVIi5juNugMw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>32605992807</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>akshayaj.runway</string>
+	<key>PROJECT_ID</key>
+	<string>runway-fa64b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>runway-fa64b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:32605992807:ios:fd4beb3660918662b2a1c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://runway-fa64b.firebaseio.com</string>
+</dict>
+</plist>
